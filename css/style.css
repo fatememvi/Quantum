@@ -1,0 +1,26 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(17, 17, 58)!important;
+    
+}
+.navbar-nav .nav-link:hover:not(.last-child){
+    color: #ff4d01 !important;
+}
+.nav-link{
+    color: rgb(17, 17, 58);
+}
+#mainNav{
+    background-color: white;
+}
+.step-wizard{
+  
+width: 100%;
+}
+
+.fa-check{
+    color: #ff4d01;
+}
+.footer-icons a i:hover{
+color: #ff4d01;
+transition: all ease-in 0.8s;
+}
